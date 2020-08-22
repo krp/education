@@ -67,3 +67,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - Shell/CLI resources
 * [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - Docker resources
 * [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in
+* [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - Terminal resources
