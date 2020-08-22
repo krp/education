@@ -44,3 +44,9 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 
 ## Courses
 * [OSSU - Courses List](https://github.com/ossu/computer-science) - OSSU Courses List (Links to CS courses on coursera, edX, etc)
+
+
+## Career
+
+### Interviews
+* [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - List of interview questions for different topics
