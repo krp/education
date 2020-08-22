@@ -5,7 +5,6 @@ Papers:
 http://lamport.azurewebsites.net/pubs/pubs.html
 
 
-
 ### Rust
 * [Learn Rust the Dangerous Way](http://cliffle.com/p/dangerust/) - Rust / C
 * [Georgia Tech - Design Operating Systems](https://tc.gts3.org/cs3210/2020/spring/cal.html) - Course on designing operating systems with Rust
@@ -36,3 +35,7 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 
 ### Game Patterns
 * [Game Programming Patterns - Robert Nystrom](https://github.com/munificent/game-programming-patterns) - Game Programming Patterns book on GitHub
+
+
+### JavaScript
+* [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - JavaScript snippets.
