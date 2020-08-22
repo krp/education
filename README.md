@@ -24,6 +24,9 @@
 * [zhenlohuang/awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems) - And more
 * [FedericoPonzi/awesome-distributed-systems](https://github.com/FedericoPonzi/awesome-distributed-systems) - 5th link. These people like to distribute their repos.
 
+### Scalability
+* [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - Scalability resources
+
 
 ### State Machines
 * [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - State machines
