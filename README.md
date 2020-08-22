@@ -23,3 +23,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 ### Distributed
 * [rShetty/awesome-distributed](https://github.com/rShetty/awesome-distributed-systems) - List of distributed systems resources
 * [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems) - More distributed systems resources
+* [zhenlohuang/awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems) - And more
