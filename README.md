@@ -14,3 +14,7 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 
 * [Stanford CS242 Programming Languages Fall 2019](http://cs242.stanford.edu/f19/) - LambdaCalc, OCaml, Rust
 * [UPenn - CIS198: Rust Programming](http://cis198-2016s.github.io/schedule/) - Rust course 
+
+
+### Programming Languages
+* [awesome-compilers](https://github.com/aalhour/awesome-compilers) - List of compiler resources.
