@@ -26,3 +26,7 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems) - More distributed systems resources
 * [zhenlohuang/awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems) - And more
 * [FedericoPonzi/awesome-distributed-systems](https://github.com/FedericoPonzi/awesome-distributed-systems) - 5th link. These people like to distribute their repos.
+
+
+### State Machines
+* [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - State machines
