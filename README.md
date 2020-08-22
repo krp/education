@@ -18,3 +18,7 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 
 ### Programming Languages
 * [awesome-compilers](https://github.com/aalhour/awesome-compilers) - List of compiler resources.
+
+
+### Distributed
+* [rShetty/awesome-distributed](https://github.com/rShetty/awesome-distributed-systems) - List of distributed systems resources
