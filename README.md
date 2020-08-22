@@ -59,3 +59,7 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 
 ### Design Tools
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - List of design tools
+
+
+### Misc
+* [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - Shell/CLI resources
