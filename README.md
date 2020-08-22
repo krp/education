@@ -32,3 +32,7 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 
 ### State Machines
 * [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - State machines
+
+
+### Game Patterns
+* [Game Programming Patterns - Robert Nystrom](https://github.com/munificent/game-programming-patterns) - Game Programming Patterns book on GitHub
