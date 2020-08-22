@@ -54,6 +54,8 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 ### Interviews
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - List of interview questions for different topics
 
+### Remote
+* [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote Job resources
 
 ## Design
 
