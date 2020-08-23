@@ -82,3 +82,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) - Websockets resources
 * [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Kubernetes Failure Stories
 * [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - WebAssembly resources
+* [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Places to post your startup
