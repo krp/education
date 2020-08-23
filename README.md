@@ -44,6 +44,11 @@
 ### Web
 * [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - Web security resources
 
+
+### Docker
+* [docker/awesome-compose](https://github.com/docker/awesome-compose) - docker-compose files
+
+
 ## Academic Papers:
 
 http://lamport.azurewebsites.net/pubs/pubs.html
