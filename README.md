@@ -40,6 +40,9 @@
 * [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - JavaScript snippets.
 
 
+### Web
+* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - Web security resources
+
 ## Academic Papers:
 
 http://lamport.azurewebsites.net/pubs/pubs.html
@@ -63,7 +66,8 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - List of design tools
 
 
-### Misc
+
+## Misc
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - Shell/CLI resources
 * [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - Docker resources
 * [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in
