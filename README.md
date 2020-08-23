@@ -68,3 +68,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - Docker resources
 * [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in
 * [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - Terminal resources
+* [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis resources
