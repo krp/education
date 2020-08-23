@@ -84,3 +84,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - WebAssembly resources
 * [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Places to post your startup
 * [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) - Must Watch CSS Talks
+* [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - gRPC resources
