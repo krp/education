@@ -75,3 +75,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis resources
 * [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) - Websockets resources
 * [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Kubernetes Failure Stories
+* [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - WebAssembly resources
