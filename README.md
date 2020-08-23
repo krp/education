@@ -83,3 +83,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Kubernetes Failure Stories
 * [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - WebAssembly resources
 * [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Places to post your startup
+* [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) - Must Watch CSS Talks
