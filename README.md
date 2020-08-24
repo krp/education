@@ -57,6 +57,8 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 ## Courses
 * [OSSU - Courses List](https://github.com/ossu/computer-science) - OSSU Courses List (Links to CS courses on coursera, edX, etc)
 
+* [Stanford Computer Security](https://cs155.stanford.edu/syllabus.html) - Stanford Computer Security course
+
 
 ## Career
 
