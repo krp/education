@@ -59,7 +59,7 @@
 
 ### Security / Reverse Engineering / Malware Analysis
 * [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Malware Analysis Resources
-
+* [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - 'Pentesting Bible'
 
 ### Internet of Things (IoT)
 * [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - IoT resources
