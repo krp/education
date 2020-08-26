@@ -88,3 +88,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Places to post your startup
 * [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) - Must Watch CSS Talks
 * [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - gRPC resources
+* [jakevdp/PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas' Python Data Science Handbook
