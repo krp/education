@@ -52,6 +52,7 @@
 ### Artificial Intelligence / Machine Learning / Deep Learning
 * [fast.ai course](https://www.fast.ai/) - fast.ai deep learning course
 
+
 ### Security / Reverse Engineering / Malware Analysis
 * [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Malware Analysis Resources
 
@@ -96,3 +97,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) - Must Watch CSS Talks
 * [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - gRPC resources
 * [jakevdp/PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas' Python Data Science Handbook
+* [awesome-datascience](https://github.com/academic/awesome-datascience) - Data Science resources
