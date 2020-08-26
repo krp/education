@@ -33,9 +33,9 @@
 * [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - State machines
 
 
-### Game Patterns
+### Game
 * [Game Programming Patterns - Robert Nystrom](https://github.com/munificent/game-programming-patterns) - Game Programming Patterns book on GitHub
-
+* [Harvard CS for GameDev](https://www.edx.org/professional-certificate/harvardx-computer-science-for-game-development) - Harvard CS for Game Dev course  
 
 ### JavaScript
 * [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - JavaScript snippets.
