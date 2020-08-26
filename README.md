@@ -106,3 +106,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - gRPC resources
 * [jakevdp/PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas' Python Data Science Handbook
 * [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - Data Science resources
+* [rossant/awesome-math](https://github.com/rossant/awesome-math) - Math resources
