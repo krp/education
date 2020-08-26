@@ -61,6 +61,9 @@
 * [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Malware Analysis Resources
 
 
+### Internet of Things (IoT)
+* [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - IoT resources
+
 ## Academic Papers:
 
 http://lamport.azurewebsites.net/pubs/pubs.html
@@ -101,4 +104,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) - Must Watch CSS Talks
 * [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - gRPC resources
 * [jakevdp/PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas' Python Data Science Handbook
-* [awesome-datascience](https://github.com/academic/awesome-datascience) - Data Science resources
+* [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - Data Science resources
