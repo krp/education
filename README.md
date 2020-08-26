@@ -49,6 +49,10 @@
 * [docker/awesome-compose](https://github.com/docker/awesome-compose) - docker-compose files
 
 
+### Artificial Intelligence / Machine Learning / Deep Learning
+* [fast.ai course](https://www.fast.ai/) - fast.ai deep learning course
+
+
 ## Academic Papers:
 
 http://lamport.azurewebsites.net/pubs/pubs.html
