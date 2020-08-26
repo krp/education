@@ -1,9 +1,13 @@
 # education
 
+### Python
+* [kirang89/pycrumbs](https://github.com/kirang89/pycrumbs) - pycrumbs: Python snippets
+
 
 ### Rust
 * [Learn Rust the Dangerous Way](http://cliffle.com/p/dangerust/) - Rust / C
 * [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - List of Rust resources
+
 
 ### Courses
 
@@ -12,7 +16,7 @@
 * [Georgia Tech - Design Operating Systems](https://tc.gts3.org/cs3210/2020/spring/cal.html) - Course on designing operating systems with Rust * Bad reviews on /r/gatech
 
 
-### Programming Languages
+### Programming Language Creation
 * [awesome-compilers](https://github.com/aalhour/awesome-compilers) - List of compiler resources.
 * [Crafting Interpreters](http://www.craftinginterpreters.com/) - Open source book by Robert Nystrom on crafting interpreters.
 * [munificent/crafting-interpreters](https://github.com/munificent/craftinginterpreters) - GitHub repo for Crafting Interpreters book.
