@@ -63,6 +63,7 @@
 
 ### Internet of Things (IoT)
 * [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - IoT resources
+* [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - More IoT resources
 
 ## Academic Papers:
 
