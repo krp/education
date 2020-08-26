@@ -52,6 +52,9 @@
 ### Artificial Intelligence / Machine Learning / Deep Learning
 * [fast.ai course](https://www.fast.ai/) - fast.ai deep learning course
 
+### Security / Reverse Engineering / Malware Analysis
+* [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Malware Analysis Resources
+
 
 ## Academic Papers:
 
