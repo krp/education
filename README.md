@@ -1,5 +1,9 @@
 # education
 
+### Go
+* [Go By Example](https://gobyexample.com/)
+* [Go Books](https://github.com/dariubs/GoBooks)
+
 ### Python
 * [kirang89/pycrumbs](https://github.com/kirang89/pycrumbs) - pycrumbs: Python snippets
 
@@ -13,7 +17,7 @@
 
 * [Stanford CS242 Programming Languages Fall 2019](http://cs242.stanford.edu/f19/) - LambdaCalc, OCaml, Rust
 * [UPenn - CIS198: Rust Programming](http://cis198-2016s.github.io/schedule/) - Rust course 
-* [Georgia Tech - Design Operating Systems](https://tc.gts3.org/cs3210/2020/spring/cal.html) - Course on designing operating systems with Rust * Bad reviews on /r/gatech
+* [Georgia Tech - Design Operating Systems](https://tc.gts3.org/cs3210/2020/spring/cal.html) - Course on designing operating systems with Rust * Bad reviews on [/r/gatech](https://reddit.com/r/gatech)
 
 
 ### Programming Language Creation
