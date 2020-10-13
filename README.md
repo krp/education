@@ -3,6 +3,7 @@
 ### Go
 * [Go By Example](https://gobyexample.com/)
 * [Go Books](https://github.com/dariubs/GoBooks)
+* [Distributed Services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/)
 
 ### Python
 * [kirang89/pycrumbs](https://github.com/kirang89/pycrumbs) - pycrumbs: Python snippets
