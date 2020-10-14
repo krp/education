@@ -13,6 +13,7 @@
 * [Learn Rust the Dangerous Way](http://cliffle.com/p/dangerust/) - Rust / C
 * [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - List of Rust resources
 * [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - Rustlings. Small exercises.
+* [Low-Level Academy](https://lowlvl.org/) - Low-Level Academy course using Rust.
 
 ### Courses
 
