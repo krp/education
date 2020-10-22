@@ -7,6 +7,7 @@
 
 ### Python
 * [kirang89/pycrumbs](https://github.com/kirang89/pycrumbs) - pycrumbs: Python snippets
+* [asyncio web crawler](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html) - AOSA Book: Web Crawler with asyncio Coroutines
 
 
 ### Rust
