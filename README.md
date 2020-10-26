@@ -35,6 +35,7 @@
 * [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems) - More distributed systems resources
 * [zhenlohuang/awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems) - And more
 * [FedericoPonzi/awesome-distributed-systems](https://github.com/FedericoPonzi/awesome-distributed-systems) - 5th link. These people like to distribute their repos.
+* [raft](https://raft.github.io/) - Raft Consensus Algorithm (includes course links)
 
 ### Scalability
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - Scalability resources
