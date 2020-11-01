@@ -16,6 +16,9 @@
 * [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - Rustlings. Small exercises.
 * [Low-Level Academy](https://lowlvl.org/) - Low-Level Academy course using Rust.
 
+### Lisp
+* [An Intuition for Lisp Syntax](https://stopa.io/post/265) - A good short post on Lisp & s-expressions.
+
 ### Courses
 
 * [Stanford CS242 Programming Languages Fall 2019](http://cs242.stanford.edu/f19/) - LambdaCalc, OCaml, Rust
