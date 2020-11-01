@@ -37,6 +37,7 @@
 * [FedericoPonzi/awesome-distributed-systems](https://github.com/FedericoPonzi/awesome-distributed-systems) - 5th link. These people like to distribute their repos.
 * [raft](https://raft.github.io/) - Raft Consensus Algorithm (includes course links)
 * [Diego Ongaro's YouTube](https://www.youtube.com/c/DiegoOngaro/videos) - Raft Creator's YouTube channel
+* [MIT 6.824 2020](https://pdos.csail.mit.edu/6.824/schedule.html) - MIT's Distributed Systems Spring 2020
 
 ### Scalability
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - Scalability resources
