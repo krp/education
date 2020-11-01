@@ -17,6 +17,7 @@
 * [Low-Level Academy](https://lowlvl.org/) - Low-Level Academy course using Rust.
 
 ### Lisp
+* [How To Design Programs](https://htdp.org/) - Book on writing programs with Racket / Lisp (v1 was Scheme)
 * [An Intuition for Lisp Syntax](https://stopa.io/post/265) - A good short post on Lisp & s-expressions.
 
 ### Courses
