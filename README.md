@@ -25,6 +25,7 @@
 * [Stanford CS242 Programming Languages Fall 2019](http://cs242.stanford.edu/f19/) - LambdaCalc, OCaml, Rust
 * [UPenn - CIS198: Rust Programming](http://cis198-2016s.github.io/schedule/) - Rust course 
 * [Georgia Tech - Design Operating Systems](https://tc.gts3.org/cs3210/2020/spring/cal.html) - Course on designing operating systems with Rust * Bad reviews on [/r/gatech](https://reddit.com/r/gatech)
+* [Awesome Video Courses](https://github.com/Developer-Y/cs-video-courses) - List of video courses.
 
 
 ### Programming Language Creation
