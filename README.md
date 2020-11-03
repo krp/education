@@ -35,6 +35,7 @@
 * [awesome-compilers](https://github.com/aalhour/awesome-compilers) - List of compiler resources.
 * [Crafting Interpreters](http://www.craftinginterpreters.com/) - Open source book by Robert Nystrom on crafting interpreters.
 * [munificent/crafting-interpreters](https://github.com/munificent/craftinginterpreters) - GitHub repo for Crafting Interpreters book.
+* [TLBHit](https://tlbh.it/) - A podcast on systems & compilers.
 
 
 ### Distributed
