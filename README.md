@@ -38,6 +38,8 @@
 * [Crafting Interpreters](http://www.craftinginterpreters.com/) - Open source book by Robert Nystrom on crafting interpreters.
 * [munificent/crafting-interpreters](https://github.com/munificent/craftinginterpreters) - GitHub repo for Crafting Interpreters book.
 * [TLBHit](https://tlbh.it/) - A podcast on systems & compilers.
+* [Writing an Interpreter in Go](https://interpreterbook.com/) - Interpreter creation in GoLang.
+* [Writing a Compiler in Go](https://compilerbook.com/) - Compiler creation in GoLang.
 
 
 ### Distributed
