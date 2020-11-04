@@ -18,6 +18,7 @@
 * [Official Rust Book](https://doc.rust-lang.org/book/) - The best resource for learning it in my opinion.
 * [Rust and WebAssembly](https://rustwasm.github.io/book/) - Rust and WebAssembly Book
 * [Rust in Easy English](https://github.com/Dhghomon/easy_rust) - Rust in Simple English
+* [A Half-Hour to Learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Short rust tutorial
 
 
 ### Lisp
