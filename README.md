@@ -17,6 +17,7 @@
 * [Low-Level Academy](https://lowlvl.org/) - Low-Level Academy course using Rust.
 * [Official Rust Book](https://doc.rust-lang.org/book/) - The best resource for learning it in my opinion.
 * [Rust and WebAssembly](https://rustwasm.github.io/book/) - Rust and WebAssembly Book
+* [Rust in Easy English](https://github.com/Dhghomon/easy_rust) - Rust in Simple English
 
 
 ### Lisp
