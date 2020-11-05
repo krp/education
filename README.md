@@ -24,6 +24,7 @@
 ### Lisp
 * [How To Design Programs](https://htdp.org/) - Book on writing programs with Racket / Lisp (v1 was Scheme)
 * [An Intuition for Lisp Syntax](https://stopa.io/post/265) - A good short post on Lisp & s-expressions.
+* [Simple Lisp Interpreter in Go by Rob Pike](https://github.com/robpike/lisp) - A simple Lisp interpreter in Go by Rob Pike
 
 
 ### Courses
