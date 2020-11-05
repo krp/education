@@ -141,3 +141,4 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [jakevdp/PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas' Python Data Science Handbook
 * [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - Data Science resources
 * [rossant/awesome-math](https://github.com/rossant/awesome-math) - Math resources
+* [Interactive Code Challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive Code Challenges
