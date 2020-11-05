@@ -90,6 +90,9 @@
 * [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - 'Pentesting Bible'
 * [/r/DataHoarder](https://www.reddit.com/r/DataHoarder/comments/jjaq3e/youtube_deleted_a_channel_that_made_educational/) - YouTube Security Channels
 
+### Cryptography
+* [Crypto101 Book](https://github.com/crypto101/book) - Crypto 101 book by lvh.
+
 ### Internet of Things (IoT)
 * [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - IoT resources
 * [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - More IoT resources
