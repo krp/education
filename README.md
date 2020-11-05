@@ -80,6 +80,7 @@
 
 ### Artificial Intelligence / Machine Learning / Deep Learning
 * [fast.ai course](https://www.fast.ai/) - fast.ai deep learning course
+* [mneilsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code for Neural Networks and Deep Learning book by Michael Neilsen
 
 
 ### Security / Reverse Engineering / Malware Analysis
