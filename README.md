@@ -4,6 +4,7 @@
 * [Go By Example](https://gobyexample.com/)
 * [Go Books](https://github.com/dariubs/GoBooks)
 * [Distributed Services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/)
+* [Tiny snippets of Go](https://github.com/GoesToEleven/GolangTraining) - Small snippets of Go code
 
 ### Python
 * [kirang89/pycrumbs](https://github.com/kirang89/pycrumbs) - pycrumbs: Python snippets
