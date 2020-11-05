@@ -78,9 +78,6 @@
 * [docker/awesome-compose](https://github.com/docker/awesome-compose) - docker-compose files
 
 
-### Job / Career
-* [vinta/fuck-coding-interviews](https://github.com/vinta/fuck-coding-interviews)
-
 ### Artificial Intelligence / Machine Learning / Deep Learning
 * [fast.ai course](https://www.fast.ai/) - fast.ai deep learning course
 
@@ -98,6 +95,10 @@
 
 http://lamport.azurewebsites.net/pubs/pubs.html
 
+## Books
+
+* [500 Lines or Less](https://github.com/aosabook/500lines) - Code from AOSA 500 Lines or Less Book
+
 
 ## Courses
 * [OSSU - Courses List](https://github.com/ossu/computer-science) - OSSU Courses List (Links to CS courses on coursera, edX, etc)
@@ -111,6 +112,7 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 
 ### Interviews
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - List of interview questions for different topics
+* [vinta/fuck-coding-interviews](https://github.com/vinta/fuck-coding-interviews)
 
 ### Remote
 * [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote Job resources
