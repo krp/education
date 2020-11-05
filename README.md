@@ -25,6 +25,7 @@
 * [How To Design Programs](https://htdp.org/) - Book on writing programs with Racket / Lisp (v1 was Scheme)
 * [An Intuition for Lisp Syntax](https://stopa.io/post/265) - A good short post on Lisp & s-expressions.
 
+
 ### Courses
 
 * [Stanford CS242 Programming Languages Fall 2019](http://cs242.stanford.edu/f19/) - LambdaCalc, OCaml, Rust
@@ -76,6 +77,9 @@
 ### Docker
 * [docker/awesome-compose](https://github.com/docker/awesome-compose) - docker-compose files
 
+
+### Job / Career
+* [vinta/fuck-coding-interviews](https://github.com/vinta/fuck-coding-interviews)
 
 ### Artificial Intelligence / Machine Learning / Deep Learning
 * [fast.ai course](https://www.fast.ai/) - fast.ai deep learning course
