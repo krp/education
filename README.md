@@ -55,6 +55,7 @@
 * [Diego Ongaro's YouTube](https://www.youtube.com/c/DiegoOngaro/videos) - Raft Creator's YouTube channel
 * [MIT 6.824 2020](https://pdos.csail.mit.edu/6.824/schedule.html) - MIT's Distributed Systems Spring 2020
 * [Eli Bendersky's Raft in Go implementation](https://github.com/eliben/raft) - Implementation of Raft in Go by Eli Bendersky
+* [Martin Kleppmann's Book References](https://github.com/ept/ddia-references) - References for Designing Data-Intensive Applications book
 
 ### Scalability
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - Scalability resources
