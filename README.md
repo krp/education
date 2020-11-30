@@ -147,3 +147,9 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - Data Science resources
 * [rossant/awesome-math](https://github.com/rossant/awesome-math) - Math resources
 * [Interactive Code Challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive Code Challenges
+
+
+## Conferences
+
+* [DEFCON 2020](https://www.youtube.com/watch?v=aLe-xW-Ws4c&list=PL9fPq3eQfaaBk9DFnyJRpxPi8Lz1n7cFv)
+* [RSA Asia 2020](https://www.youtube.com/playlist?list=PLeUGLKUYzh_gONkrhv3a2FVnV99PbNlAQ)
