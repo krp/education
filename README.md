@@ -21,6 +21,7 @@
 * [Rust in Easy English](https://github.com/Dhghomon/easy_rust) - Rust in Simple English
 * [A Half-Hour to Learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Short rust tutorial
 * [Writing 4 Brainfuck compilers in Rust](https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md) - A good blog post on writing 4 different types of assembly compilers in Rust
+* [Stanford CS140E - Operating Systems in Rust](https://cs140e.sergio.bz/syllabus/) - Stanford course in Operating Systems - [GitHub Resources](https://github.com/dddrrreee/cs140e-20win/)
 
 ### Lisp
 * [How To Design Programs](https://htdp.org/) - Book on writing programs with Racket / Lisp (v1 was Scheme)
