@@ -115,6 +115,7 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 
 * [PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - Security Talks
 * [Stanford - Parallel Computing 2019](http://cs149.stanford.edu/fall19/) - Stanford Parallel Computing 2019
+* [Stanford - Intro to Computer Networking 2020](https://cs144.github.io/) - Stanford Computing Networking Course
 
 ## Career
 
