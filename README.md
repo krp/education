@@ -155,3 +155,12 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 
 * [DEFCON 2020](https://www.youtube.com/watch?v=aLe-xW-Ws4c&list=PL9fPq3eQfaaBk9DFnyJRpxPi8Lz1n7cFv)
 * [RSA Asia 2020](https://www.youtube.com/playlist?list=PLeUGLKUYzh_gONkrhv3a2FVnV99PbNlAQ)
+
+
+## Software Design
+* [Jon Ousterhout - Creating Great Programmers](https://www.youtube.com/watch?v=ajFq31OV9Bk)
+* Create thick classes (small interface that hides a lot of complexity).
+* Define Errors out of existence. Define your system so that there is no error. Minimize the number of places where someone has to worry about an exception.
+* Specialization makes classes complicated. Making them generic simplifies things.
+* Students should take course as late as possible (e.g. after taking operating systems course).
+
