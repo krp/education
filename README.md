@@ -116,6 +116,7 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * [PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - Security Talks
 * [Stanford - Parallel Computing 2019](http://cs149.stanford.edu/fall19/) - Stanford Parallel Computing 2019
 * [Stanford - Intro to Computer Networking 2020](https://cs144.github.io/) - Stanford Computing Networking Course
+* [CMU Computer Graphics 15-462/662](http://15462.courses.cs.cmu.edu/spring2022/)
 
 ## Career
 
@@ -163,4 +164,11 @@ http://lamport.azurewebsites.net/pubs/pubs.html
 * Define Errors out of existence. Define your system so that there is no error. Minimize the number of places where someone has to worry about an exception.
 * Specialization makes classes complicated. Making them generic simplifies things.
 * Students should take course as late as possible (e.g. after taking operating systems course).
+
+
+## Course Platforms
+* [KodeKloud](https://kodekloud.com)
+* [DeepLearning.ai](https://www.deeplearning.ai/courses/)
+* [RoadToReact](https://www.roadtoreact.com/)
+* [Egghead.io](https://egghead.io/courses)
 
